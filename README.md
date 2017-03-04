@@ -4,7 +4,8 @@ ContactHelperSwift3 contains Fetch, Delete, Add and Update Contact Functionality
 Contact List And Search Contact
 ![alt tag](https://github.com/IosPower/ContactHelperSwift3/blob/master/Images/Simulator%20Screen%20Shot%2009-Feb-2017%2C%205.32.32%20PM.jpg)
 
-Delete Contact
+ Delete Contact
+ 
 ![alt tag](https://github.com/IosPower/ContactHelperSwift3/blob/master/Images/Simulator%20Screen%20Shot%2009-Feb-2017%2C%205.32.37%20PM.jpg)
 
 
