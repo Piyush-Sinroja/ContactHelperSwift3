@@ -3,7 +3,7 @@ ContactHelperSwift3 contains Fetch, Delete, Add and Update Contact Functionality
 
                                                 ContactHelper
 
-I have Made ContactHelper Swift Class with the help of this, We can Fetch Contact, Delete Contact from Device and Add/Update Contact To Device. We Can also modify According to our requirement. 
+with the help of this, We can Fetch Contact, Delete Contact from Device and Add/Update Contact To Device. We Can also modify According to our requirement. 
 
 Advantages of this Demo: 
 1: Contact Functionality
