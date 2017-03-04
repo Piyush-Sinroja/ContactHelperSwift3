@@ -4,11 +4,21 @@ ContactHelperSwift3 contains Fetch, Delete, Add and Update Contact Functionality
 Contact List And Search Contact
 ![alt tag](https://github.com/IosPower/ContactHelperSwift3/blob/master/Images/Simulator%20Screen%20Shot%2009-Feb-2017%2C%205.32.32%20PM.jpg)
 
- Delete Contact
+Delete Contact
  
 ![alt tag](https://github.com/IosPower/ContactHelperSwift3/blob/master/Images/Simulator%20Screen%20Shot%2009-Feb-2017%2C%205.32.37%20PM.jpg)
 
+Add Contact
 
+![alt tag](https://github.com/IosPower/ContactHelperSwift3/blob/master/Images/Simulator%20Screen%20Shot%2009-Feb-2017%2C%205.32.54%20PM.jpg)
+
+Update Contact
+
+![alt tag](https://github.com/IosPower/ContactHelperSwift3/blob/master/Images/Simulator%20Screen%20Shot%2009-Feb-2017%2C%205.32.49%20PM.jpg)
+
+CountrySelect
+
+![alt tag](https://github.com/IosPower/ContactHelperSwift3/blob/master/Images/Simulator%20Screen%20Shot%2009-Feb-2017%2C%205.59.31%20PM.jpg)
                                                ContactHelper
 
 with the help of this, We can Fetch Contact, Delete Contact from Device and Add/Update Contact To Device. We Can also modify According to our requirement. 
